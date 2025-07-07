@@ -4,8 +4,6 @@ This project is a **Flask-based web application** for hosting quizzes, storing s
 
 ---
 
----
-
 ## 🚀 Features
 ✅ Take a quiz through an interactive web interface  
 ✅ Store and retrieve scores using SQLite  
